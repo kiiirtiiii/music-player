@@ -1,4 +1,4 @@
-# music_player
+# music-player
 My first Python Project
 
 This music player is made using tkinter(python GUI).

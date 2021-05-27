@@ -9,6 +9,17 @@ Code doesn't have any folder to use the images and logos, so I've uploaded image
 
 There're some area which need improvement. I'll work on this again and will try to improve them. 
 
+# To Run this project you've to:
+1. Download this "as zip" to your local machine
+2. Make sure you've python installed in your system and have an upgraded version of pip.
+3. Install the following modules in your system using the command "pip install *MODULE NAME*"
+    1. ttkthemes
+    2. pygame
+    3. mutagen
+    4. tkinter (it may be possible that it's already installed in your system)
+4. Run "music_player.py"
+
+
 ## Screenshots of the project :
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/61161878/84368423-30a8e880-abf3-11ea-82f2-cb09b98ef5b7.png)

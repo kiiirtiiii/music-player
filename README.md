@@ -12,10 +12,13 @@ There're some area which need improvement. I'll work on this again and will try 
 > 2. Make sure you've python installed in your system and have an upgraded version of pip.
 > 3. Install the following modules in your system as:
 
-``` pip install ttkthemes```
-``` pip install pygame ```
-``` pip install mutagen ```
-``` pip install tkinter ```
+``` pip install ttkthemes
+    pip install pygame
+```
+``` 
+    pip install mutagen 
+    pip install tkinter
+```
 *(it may be possible that tkinter is already installed in your system)*
 
 > 4. Run "music_player.py"

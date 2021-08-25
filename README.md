@@ -15,9 +15,8 @@ There're some area which need improvement. I'll work on this again and will try 
 ``` pip install ttkthemes
     pip install pygame
     pip install mutagen
-    pip install tkinter
 ```
-*(it may be possible that tkinter is already installed in your system)*
+*also, pip install tkinter (it may be possible that tkinter is already installed in your system)*
 
 > 4. Run "music_player.py"
 
